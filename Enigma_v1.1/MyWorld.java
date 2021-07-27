@@ -86,5 +86,17 @@ public class MyWorld extends World
         clock clock6 = new clock();
         addObject(clock6,513,28);
         clock6.setLocation(536,39);
+        clock clock7 = new clock();
+        addObject(clock7,312,80);
+        platform platform8 = new platform();
+        addObject(platform8,329,161);
+        clock7.setLocation(281,41);
+        platform8.setLocation(283,71);
+        platform8.setLocation(289,103);
+        platform8.setLocation(292,112);
+        clock7.setLocation(278,56);
+        platform7.setLocation(527,36);
+        platform7.setLocation(523,84);
+        clock6.setLocation(535,48);
     }
 }
