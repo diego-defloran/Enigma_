@@ -27,7 +27,8 @@ public class protag extends Actor
         if (protag != null)
         {
             getWorld().removeObject(protag);
-            getWorld().removeObject(this);
+            getWorld().setBackground("GameOver.png");
+            
         }
         
     }
