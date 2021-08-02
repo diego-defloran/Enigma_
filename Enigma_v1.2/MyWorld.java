@@ -145,5 +145,37 @@ public class MyWorld extends World
         clock4.setLocation(55,51);
         platform5.setLocation(49,170);
         clock4.setLocation(70,119);
+        platform6.setLocation(341,261);
+        platform6.setLocation(350,208);
+        platform3.setLocation(490,206);
+        clock2.setLocation(503,126);
+        platform8.setLocation(242,162);
+        removeObject(platform8);
+        clock7.setLocation(207,120);
+        removeObject(clock7);
+        platform5.setLocation(71,165);
+        removeObject(platform5);
+        removeObject(clock4);
+        platform7.setLocation(203,128);
+        clock6.setLocation(200,70);
+        platform7.setLocation(117,120);
+        clock6.setLocation(124,78);
+        platform7.setLocation(145,167);
+        clock6.setLocation(133,116);
+        clock5.setLocation(339,106);
+        clock5.setLocation(340,96);
+        clock5.setLocation(348,138);
+        clock2.setLocation(491,157);
+        platform6.setLocation(361,241);
+        clock5.setLocation(354,175);
+        platform3.setLocation(523,113);
+        platform3.setLocation(511,186);
+        platform3.setLocation(518,133);
+        platform3.setLocation(516,53);
+        platform3.setLocation(528,147);
+        platform3.setLocation(509,64);
+        clock2.setLocation(381,64);
+        platform3.setLocation(520,315);
+        clock2.setLocation(514,261);
     }
 }
